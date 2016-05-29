@@ -1,0 +1,32 @@
+{
+    "globals": {
+        "name": "Riser",
+        "title": "Riser",
+        "url": "https://github.com/oguching/riser",
+        "description": "Riser is a Harp boilerplate",
+        "authors": {
+            "oguchi": {
+                "name": "Oguchi",
+                "email": "oguching@gmail.com",
+                "bio": "JavaScript Developer",
+                "twitter": "oguching",
+                "github": "oguching",
+                "codepen": "oguching"
+            },
+            "setsuna": {
+                "name": "Setsuna",
+                "email": "setsuna@gmail.com",
+                "bio": "Gundam Master",
+                "twitter": "setsuna",
+                "github": "setsuna",
+                "dribbble": "setsuna"
+            }
+        },
+        "service": {
+            "analytics": "",
+            "service": "example",
+            "prism": true
+        }
+    },
+    "domains": []
+}
