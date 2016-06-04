@@ -1,3 +1,8 @@
 # Riser
 
-Riser is a template for Harp. I really suck at CSS so we'll see how this goes.
+Riser is a template for Harp. Here are a few design goals:
+
+* Two column layout
+* Font: Georgia
+* Body font size: 21 to 24px
+* Flexbox
