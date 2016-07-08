@@ -6,3 +6,4 @@ Riser is a template for Harp. Here are a few design goals:
 * Font: Georgia
 * Body font size: 21 to 24px
 * Flexbox
+* BEM & Sass
