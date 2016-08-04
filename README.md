@@ -10,3 +10,6 @@ Riser is a template for Harp. Here are a few design goals:
 
 ### Inspiration
 * [ISL](https://sudo.isl.co/)
+
+### Resources
+* [Responsive Headers](http://tutorialzine.com/2016/02/quick-tip-easiest-way-to-make-responsive-headers/)
